@@ -8,10 +8,10 @@ class AvatarWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const CircleAvatar(
-      backgroundColor: Colors.purple,
+      backgroundColor: Colors.black,
       radius: 60.0,
       child: CircleAvatar(
-        backgroundImage: AssetImage('assets/image/gay.jpg'),
+        backgroundImage: AssetImage('assets/image/Lennon.png'),
         radius: 55,
       ),
     );

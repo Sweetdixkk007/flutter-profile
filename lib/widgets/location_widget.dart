@@ -17,7 +17,7 @@ class LocationWidget extends StatelessWidget {
           color: Colors.red,
         ),
         Text(
-          "123 Gay bar Bangsue Bangcock",
+          "100/490 Wangnoi 13170 Ayutthaya ",
           style: TextStyle(
             fontFamily: 'Poppins',
             fontSize: 20,

@@ -1,19 +1,20 @@
+
 import 'package:flutter/material.dart';
 
-class NameWidget extends StatelessWidget {
-  const NameWidget({
+class TextWidget extends StatelessWidget {
+  const TextWidget({
     super.key,
   });
 
   @override
   Widget build(BuildContext context) {
     return const Text(
-      "Peerawat Lennon",
+      "Happiness was the key to life.",
       style: TextStyle(
         fontFamily: 'Poppins',
-        fontSize: 24,
+        fontSize: 20,
         color: Colors.black,
-        fontWeight: FontWeight.w700,
+        fontWeight: FontWeight.w500,
       ),
     );
   }
